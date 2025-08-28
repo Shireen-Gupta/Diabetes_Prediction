@@ -1,10 +1,13 @@
-# Diabetes_Prediction
-This project is a machine learning model that predicts the likelihood of a person having diabetes based on health-related features. It is built using an Artificial Neural Network (ANN). It achieves an accuracy of approximately 79%. on the test dataset
+# Diabetes Prediction
+
+This project implements an **Artificial Neural Network (ANN)** to predict the likelihood of diabetes in individuals, achieving an accuracy of approximately **79%** on the test dataset.
+
 ---
 
 
-# Files Uploaded 
-Diabetes_Prediction.ipynb -> File containing data analysis, model training and testing
+# Files Uploaded
+
+- **`Diabetes_Prediction.ipynb`** → Contains data preprocessing, exploratory analysis, model training, evaluation, and testing.  
 ---
 ## 📑 Dataset
 
